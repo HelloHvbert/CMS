@@ -1,0 +1,9 @@
+body{
+  padding-top:10px;
+  font-family: Arial ;
+  border-color: black;
+}
+.container{
+  width: 500px;
+  margin: 0 auto;
+}
